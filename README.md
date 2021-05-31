@@ -2,6 +2,8 @@
 
 Usage: `howmuch <filament diameter (milimeters)> <density of filament (g/cm³)> <gcode file path>`
 
+### Limitations
+Known to work with gcode generated with Ender 3 Pro profiles of Cura and Simplify3D.
 
 ### Build instructions
 
